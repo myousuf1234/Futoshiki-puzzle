@@ -11,6 +11,7 @@ Given an input file of this format:
 
 0 0 0 0 1
 
+-------
 
 0 > 0 0
 
@@ -24,6 +25,7 @@ Given an input file of this format:
 
 ^ ^ 0 0 0
 
+--------
 
 0 0 0 0 0
 
