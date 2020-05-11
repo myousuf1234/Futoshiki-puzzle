@@ -1,5 +1,6 @@
 # Futoshiki-puzzle:
 Given an input file of this format:
+
 0 0 0 0 0
 
 0 0 0 0 0
